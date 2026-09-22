@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Ajay 👋 — AI Engineer & Full-Stack Developer</div>
+### <div align="center">Hi, I'm Ajay  — AI Engineer & Full-Stack Developer</div>
 
 <div align="center">
 I build intelligent, production-ready systems — from <b>agentic AI workflows</b> with <b>LangChain</b> and <b>LangGraph</b> to <b>full-stack Next.js</b> apps deployed on <b>Google Cloud</b>.
@@ -6,12 +6,12 @@ I build intelligent, production-ready systems — from <b>agentic AI workflows</
 
 <br/>
 
-- 🤖 **AI Engineer** — building LLM-powered apps, RAG pipelines and multi-agent systems with LangChain, LangGraph and agentic AI patterns
-- 🌐 **Full-Stack Developer** — Next.js, React, Node.js, Express, MongoDB and MVC .NET
-- ☁️ **DevOps** — deploying and scaling apps on Google Cloud Platform (GCP)
-- 🔭 I'm currently building a **multi-agent SEO system** — AI agents that audit a website, detect SEO issues, identify improvement areas, and write optimized blog content automatically
-- 🌱 I'm currently deepening my skills in Google Cloud development
-- 💬 Ask me about multi-agent systems, agentic AI, AI-powered SEO and LLM applications
+- **AI Engineer** — building LLM-powered apps, RAG pipelines and multi-agent systems with LangChain, LangGraph and agentic AI patterns
+- **Full-Stack Developer** — Next.js, React, Node.js, Express, MongoDB and MVC .NET
+- **DevOps** — deploying and scaling apps on Google Cloud Platform (GCP)
+- I'm currently building a **multi-agent SEO system** — AI agents that audit a website, detect SEO issues, identify improvement areas, and write optimized blog content automatically
+- I'm currently deepening my skills in Google Cloud development
+- Ask me about multi-agent systems, agentic AI, AI-powered SEO and LLM applications
 
 <br/>
 
